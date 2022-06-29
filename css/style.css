@@ -1,0 +1,106 @@
+body {
+
+	background-color: #EEEFF1 ;
+}
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+* {box-sizing: border-box;}
+body {font-family: TimeNewRomans, sans-serif;}
+.mySlides {display: none;}
+
+
+
+#glav {
+	
+margin-top: 7;
+display: block;
+position: absolute;
+width: 100%;
+height: 10%;
+left: 0;
+top: -7px;
+
+background: #FFFFFF;
+}
+
+#inf {
+margin: 0 3px;
+position: absolute;
+width: 35%;
+height: 15%;
+left: 50%;
+top: 13%;
+
+}
+#contact {
+position: absolute;
+width: 100%;
+height: 131px;
+left: 0px;
+top: 833px;
+background: #34547A;
+vertical-align:middle; 
+display:table-cell;  
+text-align:left; 
+}
+h1{
+font-family: TimeNewRomans;
+font-style: normal;
+font-weight: 500;
+font-size: 32px;
+line-height: 38px;
+color: #000000;
+}
+h4 {
+	margin-top: -2%;
+	margin-left: -25%;
+	left: 4%;
+width: 65%;
+font-family: TimeNewRomans;
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 26px;
+text-align: center;
+
+color: #727272;
+}
+h3 {
+font-family: TimeNewRomans;
+font-style: normal;
+font-weight: 500;
+font-size: 21px;
+line-height: 25px;
+
+color: #FFFFFF;}
+h5 {
+margin: 0 3px;
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 13px;
+line-height: 21px;
+
+color: #FFFFFF;
+}
+h6{
+	font-family: 'Revalia';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 60px;
+
+text-align: center;
+
+color: #34547A;
+}
+P {
+	font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 26px;
+text-align: left;
+
+color: #FFFFFF;
+}
